@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.exe.config
+C:\Users\User\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.exe
+C:\Users\User\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.pdb
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.Form1.resources
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.Properties.Resources.resources
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.exe
+C:\Users\User\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.pdb
